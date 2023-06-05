@@ -1,0 +1,11 @@
+langchain 
+tiktoken 
+chromadb 
+pypdf 
+transformers 
+InstructorEmbedding
+accelerate
+bitsandbytes
+sentencepiece
+Xformers
+sentence_transformers
