@@ -1,0 +1,6 @@
+/repositories/
+/models/*
+**/.ipynb_checkpoints/
+/.idea/
+/.chroma/
+/data/*.json
