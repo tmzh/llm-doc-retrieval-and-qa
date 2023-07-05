@@ -3,10 +3,13 @@ Xformers
 accelerate
 bitsandbytes
 chromadb 
-gradio
-langchain 
+gradio~=3.35.2
+langchain~=0.0.212
 pypdf 
 sentence_transformers
-sentencepiece
+sentencepiece~=0.1.99
 tiktoken 
 transformers 
+pydantic~=1.10.9
+safetensors~=0.3.1
+datasets~=2.12.0
